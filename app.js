@@ -1,1 +1,0 @@
-alert('WELCOME TO COLOR GRADING PAGE!');
