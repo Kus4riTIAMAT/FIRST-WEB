@@ -1,1 +1,1 @@
-alert('HELLO THERE!!!');
+alert('WELCOME TO COLOR GRADING PAGE!');
